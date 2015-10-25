@@ -1,0 +1,4 @@
+name: modularExample
+author: Pablo González Doval
+dependencies:
+  test: "any"
